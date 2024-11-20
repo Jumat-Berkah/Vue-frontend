@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.15",
+    "vite": "^5.4.11"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "dev": "vite"
+  }
+}
